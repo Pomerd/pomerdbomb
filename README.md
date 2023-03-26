@@ -12,8 +12,8 @@ Windowsta direkt olarak baslat.bat dosyası ile çalıştırabilirsiniz.
 ```
 
 ```
-git clone https://github.com/Pomerd/smssikentool.git
-cd smssikentool
+git clone https://github.com/Pomerd/pomerdbomb.git
+cd pomerdbomb
 pip3 install -r requirements.txt
 python3 pomerdbomb.py
 ```
@@ -25,9 +25,4 @@ python3 pomerdbomb.py
 - Açık kaynak kodlu
 - Ultra gizli
 - Hızlı
-# Yasal uyarı
-Bu programın kullanımından doğabilecek hukuki, cezai ve mali her türlü sorumluluk kullanıcıya aittir.
-# Bilinen Hatalar
-Şuanlık bilinen bir hata yoktur. Eğer bir hataya rastlarsanız 'Issues' bölümünden bildirebilirsiniz.
-
 
